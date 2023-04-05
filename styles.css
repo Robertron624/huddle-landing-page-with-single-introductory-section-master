@@ -127,6 +127,10 @@ li:hover i{
         column-gap: 1.5rem;
     }
 
+    #hero {
+        margin-bottom: 0;
+    }
+
     .content {
         height: 100%;
         text-align: left;
