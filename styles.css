@@ -146,4 +146,8 @@ li:hover i{
     header img {
         width: 200px;
     }
+
+    footer {
+        margin-top: 0;
+    }
 }
